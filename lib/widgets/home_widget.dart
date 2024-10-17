@@ -8,7 +8,7 @@ import 'package:weather_app_flutter/widgets/widgets.dart';
 
 import '../constants/constants.dart';
 import '../models/weather.dart';
-import '../view_model/home_view_model.dart';
+import '../view_models/home_view_model.dart';
 
 class HomeWidget extends StatelessWidget {
   final WeatherData weatherData;

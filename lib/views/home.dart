@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 
 import 'package:provider/provider.dart';
-import 'package:weather_app_flutter/view_model/weather_view_model.dart';
+import 'package:weather_app_flutter/view_models/weather_view_model.dart';
 import 'package:intl/date_symbol_data_local.dart';
 import 'package:weather_app_flutter/widgets/home_widget.dart';
 
